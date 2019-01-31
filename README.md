@@ -19,8 +19,7 @@ create a Employee table and populate the Employee table.
     
     b. SpringbootCrudDemoApplication.java
     
-    c. If you have Postman installed, you may make the following HTTP requests (Do not forget to enter the credentials as
-    susan, test123 in the authorization tab); 
+    c. If you have Postman installed, you may make the following HTTP requests; 
    
    
     GET http://localhost:8080/springboot-crud-demo/api/employees (Selects all employees)
